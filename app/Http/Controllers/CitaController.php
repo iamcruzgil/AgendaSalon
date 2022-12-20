@@ -15,7 +15,7 @@ class CitaController extends Controller
     public function index()
     {
         //
-        return view('cita.index');
+        return view('cita.calendario');
     }
 
     /**

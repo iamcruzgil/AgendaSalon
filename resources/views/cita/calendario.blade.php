@@ -44,7 +44,7 @@
                 </div>
             
             <div class="mb-3">
-              <label for="end" class="form-label">Emd</label>
+              <label for="end" class="form-label">End</label>
               <input type="text"
                 class="form-control" name="end" id="end" aria-describedby="helpId" placeholder="">
               <small id="helpId" class="form-text text-muted">Help text</small>
